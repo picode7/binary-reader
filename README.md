@@ -1,6 +1,6 @@
 # Binary Reader for JavaScript/TypeScript
 
-[![npm](https://img.shields.io/npm/v/fbx-parser)](https://www.npmjs.com/package/@picode/binary-reader)
+[![npm](https://img.shields.io/npm/v/@picode/binary-reader)](https://www.npmjs.com/package/@picode/binary-reader)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@picode/binary-reader)
 
 Tool for reading binary data sequentially in JavaScript / TypeScript
