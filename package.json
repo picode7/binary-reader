@@ -1,6 +1,6 @@
 {
   "name": "@picode/binary-reader",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Tool for reading binary data sequentially in JavaScript / TypeScript.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
