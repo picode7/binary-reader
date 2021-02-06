@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@picode/binary-reader)](https://www.npmjs.com/package/@picode/binary-reader)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@picode/binary-reader)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/picode7/binary-reader/CI)](https://github.com/picode7/binary-reader/actions)
 
 Tool for reading binary data sequentially in JavaScript / TypeScript
 
